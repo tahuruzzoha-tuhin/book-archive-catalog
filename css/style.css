@@ -17,13 +17,6 @@ body {
 
 }
 
-.card,
-.card-body {
-    background-color: #242241;
-    font-family: 'Poppins', sans-serif;
-    border: 1px solid;
-    border-radius: 6px;
-}
 
 #result {
     min-height: 30px;
@@ -47,9 +40,18 @@ body {
 /*****************************\
     CSS FOR DYNAMIC HTML
 \*****************************/
+
+
+.card,
+.card-body {
+    background-color: #062333;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid;
+    border-radius: 6px;
+}
 .title {
     font-family: 'Poppins', sans-serif;
-    color: #1890ff !important;
+    color: cyan !important;
     margin-bottom: 15px;
 }
 
